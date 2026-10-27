@@ -1,4 +1,4 @@
-# 唯卓仕镜头电机控制上位机（serial-android-java）
+# 唯卓仕镜头电机控制上位机（serial-android-Kotlin）
 
 基于 **Kotlin + usb-serial-for-android** 的安卓 OTG 串口调试工具，用于通过 USB 串口控制镜头电机驱动板。
 
